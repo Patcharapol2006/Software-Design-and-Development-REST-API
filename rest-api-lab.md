@@ -306,7 +306,7 @@ npm run dev
 ```
 ผลลัพธ์จะแสดง 
 ![ผลการรัน Server](./images/run_server.png)
-![Uploading image.png…]()
+
 
   
 ### 1.5 การทดสอบ API ด้วย Postman
