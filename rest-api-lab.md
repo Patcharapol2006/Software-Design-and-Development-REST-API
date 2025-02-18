@@ -306,6 +306,8 @@ npm run dev
 ```
 ผลลัพธ์จะแสดง 
 ![ผลการรัน Server](./images/run_server.png)
+![Uploading image.png…]()
+
   
 ### 1.5 การทดสอบ API ด้วย Postman
 
@@ -409,6 +411,8 @@ npm run dev
 
   ### บันทึกผลการทดลอง
   ![แทรกรูปผลการ Get ข้อมูลทั้งหมด](path/to/your/image.png)
+  ![image](https://github.com/user-attachments/assets/c0ff5b5e-d65a-4334-a868-f7c9f3889c73)
+
 
    b) Get Booking by ID:
    - สร้าง Request ใหม่ชื่อ "Get Booking by ID"
@@ -418,6 +422,8 @@ npm run dev
 
   ### บันทึกผลการทดลอง
   ![แทรกรูปผลการ Get ข้อมูลโดยระบุ ID](path/to/your/image.png)
+  ![image](https://github.com/user-attachments/assets/4d574c9e-3915-4c64-8af4-73ebb4810e0e)
+
 
    c) Update Booking:
    - สร้าง Request ใหม่ชื่อ "Update Booking"
